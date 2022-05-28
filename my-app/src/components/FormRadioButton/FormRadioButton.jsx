@@ -15,12 +15,13 @@ export const FormRadioButton = ({ props }) => {
         return (
           <li key={i} className="radio_el">
             <input
+              className=".radio_el_input"
               type="radio"
               value={i + 1}
-              checked={value === i+1}
+              checked={value === i + 1}
               onChange={handleChecked}
             />
-            {i + 1}
+            <span className="radio_rate">{i + 1}</span>
           </li>
         );
       })}
