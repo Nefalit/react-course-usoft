@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-course-usoft/static/css/main.5634e1d9.css",
+    "main.js": "/react-course-usoft/static/js/main.a803d4f5.js",
+    "static/js/787.f4804e12.chunk.js": "/react-course-usoft/static/js/787.f4804e12.chunk.js",
+    "index.html": "/react-course-usoft/index.html",
+    "main.5634e1d9.css.map": "/react-course-usoft/static/css/main.5634e1d9.css.map",
+    "main.a803d4f5.js.map": "/react-course-usoft/static/js/main.a803d4f5.js.map",
+    "787.f4804e12.chunk.js.map": "/react-course-usoft/static/js/787.f4804e12.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5634e1d9.css",
+    "static/js/main.a803d4f5.js"
+  ]
+}
