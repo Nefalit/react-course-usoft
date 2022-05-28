@@ -1,0 +1,9 @@
+.input_form_wrapper{
+    display: flex;
+    justify-content: center;
+}
+.send_button{
+    border-radius: 4px;
+    background-color: aqua;
+    margin-left: 5px;
+}
