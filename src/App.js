@@ -8,10 +8,10 @@ import { Form } from "./components/Form/Form";
 function App() {
   return (
     <div className="wrapper">
-      <Header props="Feedback Project from United Software by Myshchyshyn Oleksandr" />
+      <Header props="Feedback Project from United Software by Volodymyr Kuzyk" />
       <Form />
       {/* we can use destructurise props */}
-      <Footer text="&copy; Made by Oleksandr Myshchyshyn" />
+      <Footer text="&copy; Made by Volodymyr Kuzyk" />
     </div>
   );
 }
